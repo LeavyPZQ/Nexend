@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    color: beige;
+    background: #0c0c0c;
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+}
+
+
+
+.nav {
+    
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+}
